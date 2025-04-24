@@ -1,22 +1,22 @@
 # PortfolioQA
 
-Olá Bem vindo ao meu Portfolio QA!
+Olá Bem vindo ao Primeiro Projeto que partilho sobre QA!
 
-Aqui vou reunir meus projetos e  toda a prática e conhecimentos adquiridos na área de QA
+Esse Projeto é referente ao site BUGBANK!
+O Bug Bank UI é uma aplicação de um banco online, projetado para práticas de planejamento e execução de testes manuais e automatizados. Ele oferece funcionalidades similares a um banco real, como criação de contas, login, transferências e extratos.
+
+Nesse repositório você vai encontrar o desenvolvimento e documentação relacionada à execução de testes manuais do site Bugbank.
+https://bugbank.netlify.app/
+https://github.com/jhonatasmatos/bugbank-ui
+
+![2025-04-24_11h22_58](https://github.com/user-attachments/assets/05239e2d-2809-4e6c-80ab-e03cd54dda43)
 
 
-
-Este projeto foi desenvolvido como parte do Bootcamp de Teste de Software oferecido pela Digital Innovation One (DIO) em parceria com a GFT, com foco na capacitação de mulheres para a área de Quality Assurance (QA).
-
-
-📚 Tópicos Abordados
-
-Durante iniciar a carreira em QA:
-
-    ✅ Fundamentos de Qualidade de Software: Conceitos básicos de qualidade, tipos de testes e sua importância no ciclo de desenvolvimento.
-    ✅ Metodologias Ágeis e Ciclo de Desenvolvimento de Software: Entendimento das metodologias ágeis, como Scrum, e como QA se encaixa nesse processo.
-    ✅ O Caminho Para a Certificação CTFL: Preparação para a certificação Certified Tester Foundation Level (CTFL).
-    ✅ Introdução ao Git e ao GitHub: Fundamentos de versionamento de código, criando e gerenciando repositórios com Git.
-    ✅ Programação Orientada a Objetos (POO): Conceitos de POO e sua aplicabilidade em QA, como entender código para realizar testes eficazes.
-    ✅ Automação de Testes: Ferramentas de automação, como Selenium WebDriver e Rest Assured, para otimizar e agilizar o processo de testes.
+📚 Durante o projeto vou documentar:
+  
+    ✅ Requisitos do Projeto
+    ✅ Planejamento de Testes
+    ✅ Casos de Testes
+    ✅ Relatório de Bugs
+    ✅ Relatório resultado de Testes
 
