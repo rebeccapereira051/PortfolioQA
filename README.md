@@ -1,4 +1,4 @@
-# PortfolioQA
+# BugBank_test
 
 Olá Bem vindo ao Primeiro Projeto que partilho sobre QA!
 
